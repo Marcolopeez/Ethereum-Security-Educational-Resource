@@ -15,5 +15,7 @@ You can view the full paper [here](./paper.pdf).
 ## Faillapop
 [Faillapop](https://github.com/jcsec-security/solidity-security-course-resources/tree/main/faillapop) is an educational resource developed collaboratively with [José Carlos Ramírez](https://github.com/jcsec-security). It is composed of a series of smart contract that interact with each other to simulate a functional buy and sell platform which is designed to be intentionally vulnerable to a variety of attacks. That allow students to learn about Ethereum security in an environment that mimics real-life scenarios. Making the training more challenging and reflective of real conditions.
 
+![Faillapop diagram](Faillapop_diagram_v3.svg)
+
 ## Contact
 For any questions or further information, feel free to contact me at [marcolopezg26@gmail.com](mailto:your.email@example.com).
